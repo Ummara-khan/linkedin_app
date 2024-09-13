@@ -14,7 +14,7 @@ st.subheader(":blue[LinkedIn] Profile Photo Analyzer", divider="gray")
 st.caption("Powered by Gemini Pro Vision")
 
 # Use the hardcoded API key
-api_key = "AIzaSyBRbtq6js1btney8LzswW0Npo_fxiQ09AE"
+api_key = ""
 
 col1, col2 = st.columns(spec=[0.4, 0.6], gap="medium")
 
